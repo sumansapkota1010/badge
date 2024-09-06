@@ -1,1 +1,1 @@
-console.log("k xa"
+console.log("k xa khabar"
